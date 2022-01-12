@@ -37,5 +37,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadow-flash&show_icons=true&theme=tokyonight&title_color=ff4013&text_color=53d5fd&locale=en&layout=compact" alt="shadow-flash" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadow-flash&show_icons=true&theme=dark&title_color=ff4013&text_color=53d5fd&locale=en" alt="shadow-flash" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadow-flash&theme=dark" alt="shadow-flash" /></p>
