@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Varun Gupta</h1>
 <h3 align="center">A Full-Stack Software Developer, Leaning on DevOps and BlockChain 🤓</h3>
 
-- 🔭 I’m currently working with [STEMpedia](https://github.com/STEMpedia)
+- 🔭 I’m currently working with [AntStack](https://github.com/antstackio)
 
-- 🌱 I’m currently learning **DevOps, Python, BlockChain**
+- 🌱 I’m currently learning **AWS**
 
-- 👯 I’m looking to collaborate on **BlockChain and NodeJS Projects**
+- 👯 I’m looking to collaborate on **AWS, ReactJS and NodeJS Projects**
 
 - 👨‍💻 All of my projects are available at [https://varungupta.vercel.app](https://varungupta.vercel.app)
 
